@@ -1,8 +1,8 @@
-# BERT-encoded SMS spam messages
+# BERT-embedded SMS spam messages
 
 The output dataset is an extention of the existing input dataset retrieved from the [SMS Spam Collection Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset).
 
-This repo stores the input dataset, the encoded dataset and the code used to generate the dataset.
+This repo stores the input dataset, the dataset with the embeddings and the code used to generate this dataset.
 
 ## Input Dataset Structure
 The original dataset contains 5574 english messages each labelled as *spam* or *ham*
